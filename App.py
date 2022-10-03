@@ -101,3 +101,4 @@ def detect():
     classBox.configure(text=current_stage) 
 detect() 
 window.mainloop()
+print('Hello')
